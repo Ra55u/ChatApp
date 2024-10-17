@@ -12,3 +12,4 @@ C:\Users\opilane\source\repos\ChatApp\ChatServer\obj\Debug\net8.0\refint\ChatSer
 C:\Users\opilane\source\repos\ChatApp\ChatServer\obj\Debug\net8.0\ChatServer.pdb
 C:\Users\opilane\source\repos\ChatApp\ChatServer\obj\Debug\net8.0\ChatServer.genruntimeconfig.cache
 C:\Users\opilane\source\repos\ChatApp\ChatServer\obj\Debug\net8.0\ref\ChatServer.dll
+C:\Users\opilane\source\repos\ChatApp\ChatServer\obj\Debug\net8.0\ChatServer.sourcelink.json
