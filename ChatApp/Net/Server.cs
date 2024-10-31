@@ -38,7 +38,7 @@ namespace ChatClient.Net
         
         private void ReadPackets()
         {
-            Task.Run(() =>d
+            Task.Run(() =>
             {
                 while (true)
                 {
