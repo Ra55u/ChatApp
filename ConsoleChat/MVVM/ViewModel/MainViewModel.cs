@@ -1,7 +1,7 @@
 ﻿using ConsoleChat.MVVM.Model;
 using ConsoleChat.Net;
 using System.Collections.ObjectModel;
-using System.Windows;
+using System.Linq;
 
 namespace ConsoleChat.MVVM.ViewModel
 {
@@ -23,19 +23,21 @@ namespace ConsoleChat.MVVM.ViewModel
             _server.userDisconnectEvent += RemoveUser;
             _server.ConnectToServer(Username);
         }
+
         public void SendMessage(string message)
         {
             if (!string.IsNullOrWhiteSpace(message))
             {
                 _server.BroadcastMessage($"{Username}: {message}");
                 Messages.Add($"{Username}: {message}");
+                Console.WriteLine($"{Username}: {message}");
             }
         }
 
         private void RemoveUser()
         {
             var uid = _server.PacketReader.ReadMessage();
-            var user = Users.Where(x => x.UID == uid).FirstOrDefault();
+            var user = Users.FirstOrDefault(x => x.UID == uid);
             Users.Remove(user);
         }
 
@@ -43,6 +45,7 @@ namespace ConsoleChat.MVVM.ViewModel
         {
             var msg = _server.PacketReader.ReadMessage();
             Messages.Add(msg);
+            Console.WriteLine($"Received: {msg}");
         }
 
         private void UserConnected()

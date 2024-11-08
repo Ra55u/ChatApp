@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\opilane\\source\\repos\\ChatApp\\ConsoleChat\\ConsoleChat.csproj": {}
+    "C:\\Users\\opilane\\Source\\Repos\\ChatApp\\ConsoleChat\\ConsoleChat.csproj": {}
   },
   "projects": {
-    "C:\\Users\\opilane\\source\\repos\\ChatApp\\ConsoleChat\\ConsoleChat.csproj": {
+    "C:\\Users\\opilane\\Source\\Repos\\ChatApp\\ConsoleChat\\ConsoleChat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\ChatApp\\ConsoleChat\\ConsoleChat.csproj",
+        "projectUniqueName": "C:\\Users\\opilane\\Source\\Repos\\ChatApp\\ConsoleChat\\ConsoleChat.csproj",
         "projectName": "ConsoleChat",
-        "projectPath": "C:\\Users\\opilane\\source\\repos\\ChatApp\\ConsoleChat\\ConsoleChat.csproj",
+        "projectPath": "C:\\Users\\opilane\\Source\\Repos\\ChatApp\\ConsoleChat\\ConsoleChat.csproj",
         "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\opilane\\source\\repos\\ChatApp\\ConsoleChat\\obj\\",
+        "outputPath": "C:\\Users\\opilane\\Source\\Repos\\ChatApp\\ConsoleChat\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

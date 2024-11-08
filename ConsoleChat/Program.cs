@@ -27,6 +27,7 @@ namespace ConsoleChat
                 }
 
                 _mainViewModel.SendMessage(input);
+                Console.WriteLine($"You: {input}");
             }
         }
     }
