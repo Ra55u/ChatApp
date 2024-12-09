@@ -1,33 +1,27 @@
-﻿using ConsoleChat.Net.IO;
-using ConsoleChat.MVVM.ViewModel;
-using ConsoleChat.Net;
-using System;
-using System.Collections.ObjectModel;
+﻿using System;
+using System.Net.Sockets;
 
 namespace ConsoleChat
 {
     class Program
     {
-        static void Main()
+        static void Main(string[] args)
         {
-            Console.Write("Sisesta nimi: ");
-            string username = Console.ReadLine();
+            string serverHost = Environment.GetEnvironmentVariable("SERVER_HOST") ?? "localhost";
+            int port = 7891;
 
-            Server server = new Server();
-            MainViewModel _mainViewModel = new MainViewModel(username, server);
+            Console.WriteLine($"Connecting to server at {serverHost}:{port}...");
 
-            Console.WriteLine("Sisesta sõnum (või kirjuta 'lahku', et lahkuda):");
-            while (true)
+            try
             {
-                string input = Console.ReadLine();
-
-                if (input?.ToLower() == "lahku")
+                using (TcpClient client = new TcpClient(serverHost, port))
                 {
-                    break;
+                    Console.WriteLine("Connected to the server.");
                 }
-
-                _mainViewModel.SendMessage(input);
-                Console.WriteLine($"You: {input}");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Failed to connect to server: {ex.Message}");
             }
         }
     }

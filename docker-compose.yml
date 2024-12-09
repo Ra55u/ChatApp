@@ -1,0 +1,40 @@
+version: "3.8"
+
+services:
+  chatserver:
+    build:
+      context: .
+      dockerfile: ChatServer/Dockerfile
+    container_name: chatserver
+    ports:
+      - "7891:7891"
+    networks:
+      - chat-network
+
+  client1:
+    build:
+      context: .
+      dockerfile: ConsoleChat/Dockerfile
+    container_name: client1
+    depends_on:
+      - chatserver
+    networks:
+      - chat-network
+    environment:
+      SERVER_HOST: chatserver
+
+  client2:
+    build:
+      context: .
+      dockerfile: ConsoleChat/Dockerfile
+    container_name: client2
+    depends_on:
+      - chatserver
+    networks:
+      - chat-network
+    environment:
+      SERVER_HOST: chatserver
+
+networks:
+  chat-network:
+    driver: bridge
