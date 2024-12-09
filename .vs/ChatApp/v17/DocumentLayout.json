@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\rasmu_s9btczt\\source\\repos\\ChatApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rasmu_s9btczt\\source\\repos\\ChatApp\\ConsoleChat\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleChat\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A051144-1AEB-4C4F-A5D0-8F74AFB110CA}|ConsoleChat\\ConsoleChat.csproj|c:\\users\\rasmu_s9btczt\\source\\repos\\chatapp\\consolechat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A051144-1AEB-4C4F-A5D0-8F74AFB110CA}|ConsoleChat\\ConsoleChat.csproj|solutionrelative:consolechat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rasmu_s9btczt\\source\\repos\\ChatApp\\ConsoleChat\\MVVM\\ViewModel\\MainViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleChat\\MVVM\\ViewModel\\MainViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C788F790-910A-4305-8B40-312B58FA3ED1}|Solution Items{C788F790-910A-4305-8B40-312B58FA3ED1}|C:\\Users\\rasmu_s9btczt\\source\\repos\\ChatApp\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C788F790-910A-4305-8B40-312B58FA3ED1}|Solution Items{C788F790-910A-4305-8B40-312B58FA3ED1}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A051144-1AEB-4C4F-A5D0-8F74AFB110CA}|ConsoleChat\\ConsoleChat.csproj|c:\\users\\rasmu_s9btczt\\source\\repos\\chatapp\\consolechat\\dockerfile||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{6A051144-1AEB-4C4F-A5D0-8F74AFB110CA}|ConsoleChat\\ConsoleChat.csproj|solutionrelative:consolechat\\dockerfile||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CC7EA4-ED0A-4E25-8EB5-6D39CE5CC654}|ChatServer\\ChatServer.csproj|c:\\users\\rasmu_s9btczt\\source\\repos\\chatapp\\chatserver\\dockerfile||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{15CC7EA4-ED0A-4E25-8EB5-6D39CE5CC654}|ChatServer\\ChatServer.csproj|solutionrelative:chatserver\\dockerfile||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A051144-1AEB-4C4F-A5D0-8F74AFB110CA}|ConsoleChat\\ConsoleChat.csproj|c:\\users\\rasmu_s9btczt\\source\\repos\\chatapp\\consolechat\\dockerfile||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A051144-1AEB-4C4F-A5D0-8F74AFB110CA}|ConsoleChat\\ConsoleChat.csproj|solutionrelative:consolechat\\dockerfile||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A051144-1AEB-4C4F-A5D0-8F74AFB110CA}|ConsoleChat\\ConsoleChat.csproj|c:\\users\\rasmu_s9btczt\\source\\repos\\chatapp\\consolechat\\mvvm\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A051144-1AEB-4C4F-A5D0-8F74AFB110CA}|ConsoleChat\\ConsoleChat.csproj|solutionrelative:consolechat\\mvvm\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CC7EA4-ED0A-4E25-8EB5-6D39CE5CC654}|ChatServer\\ChatServer.csproj|c:\\users\\rasmu_s9btczt\\source\\repos\\chatapp\\chatserver\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{15CC7EA4-ED0A-4E25-8EB5-6D39CE5CC654}|ChatServer\\ChatServer.csproj|solutionrelative:chatserver\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CC7EA4-ED0A-4E25-8EB5-6D39CE5CC654}|ChatServer\\ChatServer.csproj|c:\\users\\rasmu_s9btczt\\source\\repos\\chatapp\\chatserver\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15CC7EA4-ED0A-4E25-8EB5-6D39CE5CC654}|ChatServer\\ChatServer.csproj|solutionrelative:chatserver\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +42,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 11,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\rasmu_s9btczt\\source\\repos\\ChatApp\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\rasmu_s9btczt\\source\\repos\\ChatApp\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-12-09T12:23:04.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\rasmu_s9btczt\\Source\\Repos\\ChatApp\\ConsoleChat\\Dockerfile",
+              "RelativeDocumentMoniker": "ConsoleChat\\Dockerfile",
+              "ToolTip": "C:\\Users\\rasmu_s9btczt\\Source\\Repos\\ChatApp\\ConsoleChat\\Dockerfile",
+              "RelativeToolTip": "ConsoleChat\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-09T12:21:06.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\rasmu_s9btczt\\Source\\Repos\\ChatApp\\ChatServer\\Dockerfile",
+              "RelativeDocumentMoniker": "ChatServer\\Dockerfile",
+              "ToolTip": "C:\\Users\\rasmu_s9btczt\\Source\\Repos\\ChatApp\\ChatServer\\Dockerfile",
+              "RelativeToolTip": "ChatServer\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-09T12:20:05.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\rasmu_s9btczt\\Source\\Repos\\ChatApp\\ConsoleChat\\Dockerfile",
+              "RelativeDocumentMoniker": "ConsoleChat\\Dockerfile",
+              "ToolTip": "C:\\Users\\rasmu_s9btczt\\Source\\Repos\\ChatApp\\ConsoleChat\\Dockerfile",
+              "RelativeToolTip": "ConsoleChat\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-09T12:18:33.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\rasmu_s9btczt\\Source\\Repos\\ChatApp\\ChatServer\\Dockerfile",
+              "RelativeDocumentMoniker": "ChatServer\\Dockerfile",
+              "ToolTip": "C:\\Users\\rasmu_s9btczt\\Source\\Repos\\ChatApp\\ChatServer\\Dockerfile",
+              "RelativeToolTip": "ChatServer\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-09T12:13:19.968Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -38,15 +127,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu_s9btczt\\source\\repos\\ChatApp\\ChatServer\\Client.cs",
+              "RelativeDocumentMoniker": "ChatServer\\Client.cs",
+              "ToolTip": "C:\\Users\\rasmu_s9btczt\\source\\repos\\ChatApp\\ChatServer\\Client.cs",
+              "RelativeToolTip": "ChatServer\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T12:14:43.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "MainViewModel.cs",
               "DocumentMoniker": "C:\\Users\\rasmu_s9btczt\\source\\repos\\ChatApp\\ConsoleChat\\MVVM\\ViewModel\\MainViewModel.cs",
               "RelativeDocumentMoniker": "ConsoleChat\\MVVM\\ViewModel\\MainViewModel.cs",
               "ToolTip": "C:\\Users\\rasmu_s9btczt\\source\\repos\\ChatApp\\ConsoleChat\\MVVM\\ViewModel\\MainViewModel.cs",
               "RelativeToolTip": "ConsoleChat\\MVVM\\ViewModel\\MainViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA3AAAAAAAAAA==",
+              "ViewState": "AQIAABoAAAAAAAAAAAAIwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T08:57:22.986Z"
+              "WhenOpened": "2024-11-08T08:57:22.986Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -56,9 +159,10 @@
               "RelativeDocumentMoniker": "ConsoleChat\\Program.cs",
               "ToolTip": "C:\\Users\\rasmu_s9btczt\\source\\repos\\ChatApp\\ConsoleChat\\Program.cs",
               "RelativeToolTip": "ConsoleChat\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAyAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T08:08:31.875Z"
+              "WhenOpened": "2024-11-08T08:08:31.875Z",
+              "EditorCaption": ""
             }
           ]
         }
